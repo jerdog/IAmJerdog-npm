@@ -17,7 +17,7 @@ const options = {
 const data = {
   name: chalk.white('               Jeremy Meiss'),
   handle: chalk.white('jerdog'),
-  work: chalk.white('Head of Community at Auth0'),
+  work: chalk.white('Director, DevRel & Community at CircleCI'),
 //  opensource: chalk.white('Nothing really to add here right now ') + chalk.green('⬢'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('IAmJerdog'),
   npm: chalk.gray('https://npmjs.com/') + chalk.red('~jerdog'),
